@@ -52,7 +52,7 @@ local function unclaimBooth(victim)
 end
 
 -- LOCALS --
-local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fz-YZF/El-patron-UI-lib/refs/heads/main/Module.lua"))()
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fz-YZF/RBLX-UI-lib/refs/heads/main/Module.lua"))()
 local plr = game.Players.LocalPlayer
 local RunServiceStepped = game:GetService("RunService").Stepped
 local RagdollEvent = workspace.Parent:GetService("ReplicatedStorage").RagdollEvent
