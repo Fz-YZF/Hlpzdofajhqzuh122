@@ -75,7 +75,7 @@ local UI = Material.Load({
 	Title = "MicHub.FZ_YZF",
 	Style = 3,
 	SizeX = 180,
-	SizeY = 255,
+	SizeY = 300,
 	Theme = "Dark",
 })
 
